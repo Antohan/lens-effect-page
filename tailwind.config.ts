@@ -30,9 +30,10 @@ const config: Config = {
         '88': '.88',
         '80': '.8',
         '90': '.9',
-      }
+      },
     },
   },
   plugins: [require('tailwindcss-3d')],
 };
+
 export default config;
